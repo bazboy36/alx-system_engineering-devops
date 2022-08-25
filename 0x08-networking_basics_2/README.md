@@ -2,10 +2,10 @@
 ##  Description
    This project covers:
 
-[localhost/127.0.0.1](https://en.wikipedia.org/wiki/Localhost)
-[What 0.0.0.0 is](https://en.wikipedia.org/wiki/0.0.0.0)
-[Host file /`etc/hosts`](https://www.makeuseof.com/tag/modify-manage-hosts-file-linux/)
-[How to display your machine’s active network interfaces `Netcat`](https://www.thegeekstuff.com/2012/04/nc-command-examples/)
+* [localhost/127.0.0.1](https://en.wikipedia.org/wiki/Localhost)
+* [What 0.0.0.0 is](https://en.wikipedia.org/wiki/0.0.0.0)
+* [Host file /`etc/hosts`](https://www.makeuseof.com/tag/modify-manage-hosts-file-linux/)
+* [How to display your machine’s active network interfaces `Netcat`](https://www.thegeekstuff.com/2012/04/nc-command-examples/)
 ## Table of contents
 |Files	|Description|
 | ---- | ----- |
