@@ -1,4 +1,4 @@
-#0x11. What happens when you type holbertonschool.com in your browser and press Enter
+# 0x11. What happens when you type holbertonschool.com in your browser and press Enter
 ## Description
 Being a Full-Stack Software Engineer means you’re comfortable interacting with any layer of the stack.
 
